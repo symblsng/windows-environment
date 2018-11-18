@@ -9,3 +9,9 @@ Remove the CD drive:
 Remove other devices like '腾讯视频(fk)' downside the Devices and Drives:
 
   https://jingyan.baidu.com/article/64d05a023d2748de55f73b9d.html
+
+## The time in windows is eight hours later than the standard time when you install windows and ubuntu together
+  
+    sudo apt-get install ntpdate
+    sudo ntpdate time.windows.com
+    sudo hwclock --localtime --systohc
