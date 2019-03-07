@@ -7,3 +7,5 @@ https://www.7-zip.org/
 http://www.winrar.com.cn/
 
 https://git-scm.com/downloads
+
+http://www.xunlei.com/
