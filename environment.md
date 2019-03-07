@@ -9,3 +9,5 @@ http://www.winrar.com.cn/
 https://git-scm.com/downloads
 
 http://www.xunlei.com/
+
+http://pan.baidu.com/download
