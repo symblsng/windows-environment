@@ -1,4 +1,6 @@
+#
 
+## Softwares
 
 https://www.google.cn/chrome/privacy/
 
@@ -25,3 +27,9 @@ https://www.jetbrains.com/idea/download/#section=windows
 https://directx.en.softonic.com/
 
 http://mail.163.com/dashi/
+
+## Games 
+
+http://dz.blizzard.cn/
+
+https://heroesofthestorm.com/en-us/
