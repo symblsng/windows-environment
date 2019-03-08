@@ -23,3 +23,9 @@ Remove other devices like '腾讯视频(fk)' downside the Devices and Drives:
     Netplwiz
   
 then unselect the option `User must enter a user name and password to use the computer` and input the password.
+
+## messy code in chinese software
+
+Settings -> Time & Language -> Region -> Additional date, time, & regional settings -> Region -> Administrative -> Current language for non-Unicode programs -> Set to Chinese
+
+https://jingyan.baidu.com/article/6b97984decc4be1ca2b0bf19.html
