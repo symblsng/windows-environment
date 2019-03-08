@@ -33,3 +33,7 @@ http://mail.163.com/dashi/
 http://dz.blizzard.cn/
 
 https://heroesofthestorm.com/en-us/
+
+### Warcraft III
+
+https://us.battle.net/account/management/download/
