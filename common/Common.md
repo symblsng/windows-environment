@@ -20,6 +20,6 @@ Remove other devices like '腾讯视频(fk)' downside the Devices and Drives:
 
 `Windows` + `R`, then input
 
-  Netplwiz
+    Netplwiz
   
 then unselect the option `User must enter a user name and password to use the computer` and input the password.
