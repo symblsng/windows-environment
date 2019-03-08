@@ -15,3 +15,11 @@ Remove other devices like '腾讯视频(fk)' downside the Devices and Drives:
     sudo apt-get install ntpdate
     sudo ntpdate time.windows.com
     sudo hwclock --localtime --systohc
+
+## Windows 10 login automaticalll
+
+`Windows` + `R`, then input
+
+  Netplwiz
+  
+then unselect the option `User must enter a user name and password to use the computer` and input the password.
