@@ -29,3 +29,7 @@ then unselect the option `User must enter a user name and password to use the co
 Settings -> Time & Language -> Region -> Additional date, time, & regional settings -> Region -> Administrative -> Current language for non-Unicode programs -> Set to Chinese
 
 https://jingyan.baidu.com/article/6b97984decc4be1ca2b0bf19.html
+
+## Share the folder
+
+https://jingyan.baidu.com/article/fec7a1e53efe621190b4e7ae.html
