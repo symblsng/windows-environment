@@ -38,3 +38,6 @@ http://dz.blizzard.cn/
 
 https://heroesofthestorm.com/en-us/
 
+### Lives
+
+https://www.huya.com/download/
