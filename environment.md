@@ -38,6 +38,8 @@ http://dz.blizzard.cn/
 
 https://heroesofthestorm.com/en-us/
 
+    https://github.com/symblsng/windows-environment/new/master#httpsheroesofthestormcomen-us
+
 https://store.steampowered.com/about/
 
 ### Lives
