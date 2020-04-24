@@ -26,10 +26,6 @@ https://directx.en.softonic.com/
 
 http://mail.163.com/dashi/
 
-https://www.virtualbox.org/wiki/Downloads
-
-https://www.ushareit.com/
-
 ## Games 
 
 http://dz.blizzard.cn/
@@ -40,6 +36,3 @@ https://heroesofthestorm.com/en-us/
 
 https://store.steampowered.com/about/
 
-### Lives
-
-https://www.huya.com/download/
