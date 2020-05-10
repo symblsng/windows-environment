@@ -30,8 +30,6 @@ http://mail.163.com/dashi/
 
 https://heroesofthestorm.com/en-us/
 
-    https://github.com/symblsng/windows-environment/new/master#httpsheroesofthestormcomen-us
-
 https://store.steampowered.com/about/
 
 ## Not Must Use
