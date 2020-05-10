@@ -16,7 +16,7 @@ http://pan.baidu.com/download
 
 http://2019.docer.com/
 
-http://www.drivergenius.com/
+https://www.ludashi.com/
 
 https://www.oracle.com/technetwork/java/javase/downloads/index.html
 
@@ -27,8 +27,6 @@ https://directx.en.softonic.com/
 http://mail.163.com/dashi/
 
 ## Games 
-
-http://dz.blizzard.cn/
 
 https://heroesofthestorm.com/en-us/
 
