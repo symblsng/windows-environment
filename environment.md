@@ -28,8 +28,6 @@ http://mail.163.com/dashi/
 
 ## Games 
 
-https://heroesofthestorm.com/en-us/
-
 https://store.steampowered.com/about/
 
 ## Not Must Use
